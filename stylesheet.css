@@ -1,3 +1,32 @@
 body{
-    background-color: #FFB05C
+    background-color: #FFB05C;
+}
+
+#logon{
+	background-color: #FFDFAB;
+	color: #FFB05C;
+	height: 65%;
+	width: 65%;
+	align-self: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: #FFB05C;*/
+}
+
+li {
+    float: center;
+}
+
+li a {
+    display: block;
+    color: #7FFFBC;
+    background-color: #FFB05C;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }

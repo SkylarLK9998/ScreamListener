@@ -16,6 +16,7 @@ A database
 Natural Language Processing
 Open source messanger (why build a messanger when you can use one that already exists for free?)
 Algorithms (I'm not sure if this counts as a technology)
+Bootstrap
 
 ^Users to block:
 Trolls (self explanitory)
