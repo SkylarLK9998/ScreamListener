@@ -1,6 +1,8 @@
 # ScreamListener
 An anti-suicide project conceived and built at Open Hack SF18
 
+This project is mostly theoretical work and planning
+
 
 ScreamListener is a network for persons considering suicide and those who want to help^(see note)
 
